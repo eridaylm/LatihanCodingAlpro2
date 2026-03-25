@@ -1,6 +1,4 @@
-# Latihan Coding Pekan 1.2: Review Struktur Kontrol: Percabangan & Perulangan 🚀
-
-Repository ini berisi kumpulan solusi latihan coding menggunakan bahasa **Go (Golang)**.
+# Latihan Coding Pekan 1.2: Review Struktur Kontrol: Percabangan & Perulangan 
 
 ---
 
